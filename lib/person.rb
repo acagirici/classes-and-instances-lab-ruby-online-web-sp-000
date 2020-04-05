@@ -1,4 +1,4 @@
 class Person
-  def initalize 
+  def initialize
 end
 
